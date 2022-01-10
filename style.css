@@ -1,7 +1,8 @@
 /* Body background and font */
 body {
-  background: #272343;
+  background: #4C0027;
   font-family: 'Cairo', sans-serif;
+  font-weight: bold;
 }
 
 /* Main heading */
@@ -56,4 +57,7 @@ body {
   background: #e3f6f5;
   border-radius: 0.5rem;
   transition: 0.5s ease;
+}
+.h4, h4 {
+  font-size: 4rem;
 }
